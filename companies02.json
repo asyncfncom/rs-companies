@@ -1,0 +1,902 @@
+{
+    "https://api.github.com/users/GiGainfosystems": {
+        "github_url": "https://github.com/GiGainfosystems",
+        "jobs_url": "https://giga-infosystems.com/jobs-overview",
+        "name": "GiGa infosystems",
+        "website_url": "https://giga-infosystems.com"
+    },
+    "https://api.github.com/users/Veridise": {
+        "github_url": "https://github.com/Veridise",
+        "jobs_url": "https://veridise.com/careers/",
+        "name": "Veridise",
+        "website_url": "https://veridise.com/"
+    },
+    "https://api.github.com/users/Cargill": {
+        "github_url": "https://github.com/Cargill",
+        "jobs_url": "https://careers.cargill.com/",
+        "name": "Cargill",
+        "website_url": "https://www.cargill.com/"
+    },
+    "https://api.github.com/users/dotbitHQ": {
+        "github_url": "https://github.com/dotbitHQ",
+        "jobs_url": "https://docs.did.id/we-are-hiring/position-list",
+        "name": ".bit",
+        "website_url": "https://did.id"
+    },
+    "https://api.github.com/users/celestiaorg": {
+        "github_url": "https://github.com/celestiaorg",
+        "jobs_url": "https://celestia.org/careers/",
+        "name": "Celestia",
+        "website_url": "https://celestia.org"
+    },
+    "https://api.github.com/users/boltlabs-inc": {
+        "github_url": "https://github.com/boltlabs-inc",
+        "jobs_url": "https://boltlabs.tech/careers/",
+        "name": "Bolt Labs",
+        "website_url": "https://boltlabs.tech"
+    },
+    "https://api.github.com/users/Stremio": {
+        "github_url": "https://github.com/Stremio",
+        "jobs_url": "https://www.stremio.com/careers",
+        "name": "Stremio",
+        "website_url": "https://www.stremio.com"
+    },
+    "https://api.github.com/users/ory": {
+        "github_url": "https://github.com/ory",
+        "jobs_url": "https://www.ory.sh/jobs/",
+        "name": "Ory",
+        "website_url": "https://www.ory.sh/"
+    },
+    "https://api.github.com/users/codelabsab": {
+        "github_url": "https://github.com/codelabsab",
+        "jobs_url": "https://www.codelabs.se/karriar",
+        "name": "Code Labs AB",
+        "website_url": "https://codelabs.se"
+    },
+    "https://api.github.com/users/Intsights": {
+        "github_url": "https://github.com/Intsights",
+        "jobs_url": "https://intsights.com/company/careers",
+        "name": "Intsights Cyber Intelligence",
+        "website_url": "https://www.intsights.com"
+    },
+    "https://api.github.com/users/kentik": {
+        "github_url": "https://github.com/kentik",
+        "jobs_url": "https://www.kentik.com/careers/",
+        "name": "Kentik",
+        "website_url": "https://www.kentik.com"
+    },
+    "https://api.github.com/users/Devolutions": {
+        "github_url": "https://github.com/Devolutions",
+        "jobs_url": "https://devolutions.net/company/overview",
+        "name": "Devolutions",
+        "website_url": "https://devolutions.net"
+    },
+    "https://api.github.com/users/NaryaAI": {
+        "github_url": "https://github.com/NaryaAI",
+        "jobs_url": "https://narya-ai.notion.site/Jobs-at-Narya-ai-1d439dfe8ee948d7b5cbe3511a9145cc",
+        "name": "Narya.ai",
+        "website_url": "https://narya.ai/"
+    },
+    "https://api.github.com/users/promaton": {
+        "github_url": "https://github.com/promaton",
+        "jobs_url": "https://careers.promaton.com/",
+        "name": "Promaton",
+        "website_url": "https://promaton.com"
+    },
+    "https://api.github.com/users/edgedb": {
+        "github_url": "https://github.com/edgedb",
+        "jobs_url": "https://www.edgedb.com/careers",
+        "name": "EdgeDB",
+        "website_url": "https://edgedb.com"
+    },
+    "https://api.github.com/users/LIT-Protocol": {
+        "github_url": "https://github.com/LIT-Protocol",
+        "jobs_url": "https://jobs.lever.co/litprotocol",
+        "name": "Lit Protocol",
+        "website_url": "https://litprotocol.com/"
+    },
+    "https://api.github.com/users/Cryptolens": {
+        "github_url": "https://github.com/Cryptolens",
+        "jobs_url": "https://cryptolens.io/career/",
+        "name": "Cryptolens AB",
+        "website_url": "https://cryptolens.io"
+    },
+    "https://api.github.com/users/palantir": {
+        "github_url": "https://github.com/palantir",
+        "jobs_url": "https://www.palantir.com/careers/",
+        "name": "Palantir Technologies",
+        "website_url": "https://palantir.com"
+    },
+    "https://api.github.com/users/deepgram-devs": {
+        "github_url": "https://github.com/deepgram-devs",
+        "jobs_url": "https://deepgram.com/company/careers/",
+        "name": "Deepgram Devs",
+        "website_url": "https://developers.deepgram.com"
+    },
+    "https://api.github.com/users/nsure-tech": {
+        "github_url": "https://github.com/nsure-tech",
+        "jobs_url": "https://nsure.network/#/capital/join",
+        "name": "Nsure.Network",
+        "website_url": "Nsure.network"
+    },
+    "https://api.github.com/users/opendp": {
+        "github_url": "https://github.com/opendp",
+        "jobs_url": "https://opendp.org/job-opportunities",
+        "name": "OpenDP",
+        "website_url": "http://opendp.org/"
+    },
+    "https://api.github.com/users/Plato-solutions": {
+        "github_url": "https://github.com/Plato-solutions",
+        "jobs_url": "https://www.platosolutions.io/jobs",
+        "name": "Plato Solutions",
+        "website_url": "https://www.platosolutions.io"
+    },
+    "https://api.github.com/users/upmem": {
+        "github_url": "https://github.com/upmem",
+        "jobs_url": "https://upmem.welcomekit.co/",
+        "name": "UPMEM",
+        "website_url": "http://www.upmem.com"
+    },
+    "https://api.github.com/users/disperze": {
+        "github_url": "https://github.com/disperze",
+        "jobs_url": "https://submit.jotform.com/231106528661654",
+        "name": "Disperze Network",
+        "website_url": "https://disperze.network"
+    },
+    "https://api.github.com/users/worldcoin": {
+        "github_url": "https://github.com/worldcoin",
+        "jobs_url": "https://worldcoin.org/careers",
+        "name": "Worldcoin",
+        "website_url": "https://www.worldcoin.org"
+    },
+    "https://api.github.com/users/perun-network": {
+        "github_url": "https://github.com/perun-network",
+        "jobs_url": "https://polycry.pt/job-postings/",
+        "name": "Perun",
+        "website_url": "https://perun.network"
+    },
+    "https://api.github.com/users/megaease": {
+        "github_url": "https://github.com/megaease",
+        "jobs_url": "https://www.megaease.com/",
+        "name": "MegaEase",
+        "website_url": "https://www.megaease.com"
+    },
+    "https://api.github.com/users/ceramicstudio": {
+        "github_url": "https://github.com/ceramicstudio",
+        "jobs_url": "https://jobs.lever.co/3box",
+        "name": "Ceramic Studio",
+        "website_url": "http://ceramic.network"
+    },
+    "https://api.github.com/users/CoreDB-io": {
+        "github_url": "https://github.com/CoreDB-io",
+        "jobs_url": "https://coredb.rippling-ats.com/",
+        "name": "CoreDB",
+        "website_url": "https://coredb.io"
+    },
+    "https://api.github.com/users/dnsimple": {
+        "github_url": "https://github.com/dnsimple",
+        "jobs_url": "https://dnsimple.com/jobs",
+        "name": "DNSimple",
+        "website_url": "https://dnsimple.com"
+    },
+    "https://api.github.com/users/meetup": {
+        "github_url": "https://github.com/meetup",
+        "jobs_url": "https://www.meetup.com/pl-PL/careers",
+        "name": "Meetup",
+        "website_url": "https://meetup.com"
+    },
+    "https://api.github.com/users/grafbase": {
+        "github_url": "https://github.com/grafbase",
+        "jobs_url": "https://grafbase.com/careers",
+        "name": "Grafbase",
+        "website_url": "https://grafbase.com"
+    },
+    "https://api.github.com/users/dashevo": {
+        "github_url": "https://github.com/dashevo",
+        "jobs_url": "https://www.dash.org/dcg/jobs/",
+        "name": "Dash Evolution",
+        "website_url": "https://www.dash.org/"
+    },
+    "https://api.github.com/users/tier4": {
+        "github_url": "https://github.com/tier4",
+        "jobs_url": "https://careers.tier4.jp/",
+        "name": "TIER IV, Inc.",
+        "website_url": "https://www.tier4.jp/"
+    },
+    "https://api.github.com/users/WeareJH": {
+        "github_url": "https://github.com/WeareJH",
+        "jobs_url": "https://wearejh.com/jobs/",
+        "name": "JH",
+        "website_url": "https://wearejh.com"
+    },
+    "https://api.github.com/users/wireapp": {
+        "github_url": "https://github.com/wireapp",
+        "jobs_url": "https://wire.softgarden.io/en/vacancies",
+        "name": "Wire Swiss GmbH",
+        "website_url": "https://wire.com"
+    },
+    "https://api.github.com/users/radixdlt": {
+        "github_url": "https://github.com/radixdlt",
+        "jobs_url": "https://www.rdx.works/careers",
+        "name": "Radix DLT",
+        "website_url": "https://www.radixdlt.com/"
+    },
+    "https://api.github.com/users/tempus-ex": {
+        "github_url": "https://github.com/tempus-ex",
+        "jobs_url": "https://tempus-ex.com/careers",
+        "name": "Tempus Ex",
+        "website_url": "https://tempus-ex.com/"
+    },
+    "https://api.github.com/users/routific": {
+        "github_url": "https://github.com/routific",
+        "jobs_url": "https://routific.com/careers/",
+        "name": "Routific",
+        "website_url": "https://routific.com/developers"
+    },
+    "https://api.github.com/users/jolocom": {
+        "github_url": "https://github.com/jolocom",
+        "jobs_url": "https://jolocom.io/get-involved/",
+        "name": "JOLOCOM",
+        "website_url": "http://www.jolocom.io"
+    },
+    "https://api.github.com/users/elastio": {
+        "github_url": "https://github.com/elastio",
+        "jobs_url": "https://elastio.com/careers/",
+        "name": "Elastio Software, Inc",
+        "website_url": "https://elastio.com"
+    },
+    "https://api.github.com/users/DataDog": {
+        "github_url": "https://github.com/DataDog",
+        "jobs_url": "https://careers.datadoghq.com/",
+        "name": "Datadog, Inc.",
+        "website_url": "https://datadoghq.com"
+    },
+    "https://api.github.com/users/p2p-org": {
+        "github_url": "https://github.com/p2p-org",
+        "jobs_url": "https://p2porg.global.huntflow.io/",
+        "name": "p2p.org",
+        "website_url": "https://p2p.org"
+    },
+    "https://api.github.com/users/peaqnetwork": {
+        "github_url": "https://github.com/peaqnetwork",
+        "jobs_url": "https://www.eotlabs.io/about-us#Vacancy-Section",
+        "name": "peaq network",
+        "website_url": "https://www.peaq.network/"
+    },
+    "https://api.github.com/users/rather-labs": {
+        "github_url": "https://github.com/rather-labs",
+        "jobs_url": "https://www.ratherlabs.com/careers",
+        "name": "Rather Labs, Inc.",
+        "website_url": "https://ratherlabs.com"
+    },
+    "https://api.github.com/users/pexip": {
+        "github_url": "https://github.com/pexip",
+        "jobs_url": "https://www.pexip.com/careers",
+        "name": "Pexip",
+        "website_url": "https://pexip.com"
+    },
+    "https://api.github.com/users/singlestore-labs": {
+        "github_url": "https://github.com/singlestore-labs",
+        "jobs_url": "https://www.singlestore.com/careers/",
+        "name": "SingleStore Labs",
+        "website_url": "https://www.singlestore.com/"
+    },
+    "https://api.github.com/users/immunant": {
+        "github_url": "https://github.com/immunant",
+        "jobs_url": "https://immunant.com/jobs/",
+        "name": "Immunant",
+        "website_url": "https://immunant.com"
+    },
+    "https://api.github.com/users/launchdarkly": {
+        "github_url": "https://github.com/launchdarkly",
+        "jobs_url": "https://launchdarkly.com/careers/",
+        "name": "LaunchDarkly",
+        "website_url": "https://launchdarkly.com"
+    },
+    "https://api.github.com/users/habitat-sh": {
+        "github_url": "https://github.com/habitat-sh",
+        "jobs_url": "https://www.progress.com/company/careers",
+        "name": "Habitat",
+        "website_url": "https://www.habitat.sh"
+    },
+    "https://api.github.com/users/digicatapult": {
+        "github_url": "https://github.com/digicatapult",
+        "jobs_url": "https://www.digicatapult.org.uk/apply/careers/",
+        "name": "Digital Catapult",
+        "website_url": "https://digicatapult.org.uk/"
+    },
+    "https://api.github.com/users/ScaleComputing": {
+        "github_url": "https://github.com/ScaleComputing",
+        "jobs_url": "https://www.scalecomputing.com/careers",
+        "name": "Scale Computing",
+        "website_url": "http://www.scalecomputing.com"
+    },
+    "https://api.github.com/users/fortanix": {
+        "github_url": "https://github.com/fortanix",
+        "jobs_url": "https://www.fortanix.com/company/careers",
+        "name": "Fortanix",
+        "website_url": "https://www.fortanix.com"
+    },
+    "https://api.github.com/users/datafuselabs": {
+        "github_url": "https://github.com/datafuselabs",
+        "jobs_url": "https://www.databend.com/join-us",
+        "name": "Databend Labs",
+        "website_url": "https://databend.com/"
+    },
+    "https://api.github.com/users/substrate-developer-hub": {
+        "github_url": "https://github.com/substrate-developer-hub",
+        "jobs_url": "https://careers.substrate.io/jobs?mode=dark",
+        "name": "Substrate Developer Hub",
+        "website_url": "https://www.substrate.io/"
+    },
+    "https://api.github.com/users/cubist-labs": {
+        "github_url": "https://github.com/cubist-labs",
+        "jobs_url": "https://cubist.dev/careers",
+        "name": "Cubist Labs",
+        "website_url": "https://cubist.dev"
+    },
+    "https://api.github.com/users/LINBIT": {
+        "github_url": "https://github.com/LINBIT",
+        "jobs_url": "https://linbit.com/jobs/",
+        "name": "LINBIT",
+        "website_url": "http://www.linbit.com"
+    },
+    "https://api.github.com/users/ComposableFi": {
+        "github_url": "https://github.com/ComposableFi",
+        "jobs_url": "https://www.composable.finance/join-us",
+        "name": "Composable Finance",
+        "website_url": "https://www.composable.finance/"
+    },
+    "https://api.github.com/users/NEARFoundation": {
+        "github_url": "https://github.com/NEARFoundation",
+        "jobs_url": "https://careers.near.org/jobs",
+        "name": "NEARFoundation",
+        "website_url": "https://near.foundation"
+    },
+    "https://api.github.com/users/Singular-Genomics": {
+        "github_url": "https://github.com/Singular-Genomics",
+        "jobs_url": "https://singulargenomics.com/careers/",
+        "name": "Singular-Genomics",
+        "website_url": "https://singulargenomics.com"
+    },
+    "https://api.github.com/users/portto": {
+        "github_url": "https://github.com/portto",
+        "jobs_url": "https://www.cakeresume.com/companies/portto",
+        "name": "portto (Blocto)",
+        "website_url": "https://blocto.io"
+    },
+    "https://api.github.com/users/6point6": {
+        "github_url": "https://github.com/6point6",
+        "jobs_url": "https://6point6.co.uk/careers/",
+        "name": "6point6",
+        "website_url": "https://www.6point6.co.uk/"
+    },
+    "https://api.github.com/users/serlo": {
+        "github_url": "https://github.com/serlo",
+        "jobs_url": "https://de.serlo.org/jobs",
+        "name": "Serlo Education",
+        "website_url": "https://www.serlo.org"
+    },
+    "https://api.github.com/users/cosmonic": {
+        "github_url": "https://github.com/cosmonic",
+        "jobs_url": "https://cosmonic.com/careers",
+        "name": "Cosmonic",
+        "website_url": "https://cosmonic.com"
+    },
+    "https://api.github.com/users/Tsukisoft": {
+        "github_url": "https://github.com/Tsukisoft",
+        "jobs_url": "https://tsukisoft.com/career/",
+        "name": "Tsukisoft GmbH",
+        "website_url": "https://tsukisoft.com"
+    },
+    "https://api.github.com/users/commure": {
+        "github_url": "https://github.com/commure",
+        "jobs_url": "https://www.commure.com/careers/",
+        "name": "Commure",
+        "website_url": "https://commure.com"
+    },
+    "https://api.github.com/users/NodleCode": {
+        "github_url": "https://github.com/NodleCode",
+        "jobs_url": "https://www.nodle.com/careers",
+        "name": "Nodle",
+        "website_url": "https://nodle.com"
+    },
+    "https://api.github.com/users/sonos": {
+        "github_url": "https://github.com/sonos",
+        "jobs_url": "https://www.sonos.com/en/life-at-sonos",
+        "name": "Sonos, Inc.",
+        "website_url": "https://www.sonos.com"
+    },
+    "https://api.github.com/users/codedx": {
+        "github_url": "https://github.com/codedx",
+        "jobs_url": "https://www.synopsys.com/careers.html",
+        "name": "Code Dx",
+        "website_url": "https://www.codedx.com/"
+    },
+    "https://api.github.com/users/Mintbase": {
+        "github_url": "https://github.com/Mintbase",
+        "jobs_url": "https://wellfound.com/company/mintbase/jobs",
+        "name": "Mintbase",
+        "website_url": "https://mintbase.io"
+    },
+    "https://api.github.com/users/adoriasoft": {
+        "github_url": "https://github.com/adoriasoft",
+        "jobs_url": "https://adoriasoft.com/careers/",
+        "name": "Adoriasoft",
+        "website_url": "https://adoriasoft.com"
+    },
+    "https://api.github.com/users/deepsourcelabs": {
+        "github_url": "https://github.com/deepsourcelabs",
+        "jobs_url": "https://deepsource.com/jobs/",
+        "name": "DeepSource",
+        "website_url": "https://deepsource.io"
+    },
+    "https://api.github.com/users/NoumenaDigital": {
+        "github_url": "https://github.com/NoumenaDigital",
+        "jobs_url": "https://noumenadigital.com/careers/",
+        "name": "Noumena Digital",
+        "website_url": "https://www.noumenadigital.com/"
+    },
+    "https://api.github.com/users/redbadger": {
+        "github_url": "https://github.com/redbadger",
+        "jobs_url": "https://careers.red-badger.com/all-jobs",
+        "name": "Red Badger",
+        "website_url": "http://red-badger.com"
+    },
+    "https://api.github.com/users/mdn": {
+        "github_url": "https://github.com/mdn",
+        "jobs_url": "https://www.mozilla.org/en-US/careers/listings/?team=Marketing",
+        "name": "MDN Web Docs",
+        "website_url": "https://developer.mozilla.org"
+    },
+    "https://api.github.com/users/mongodb-developer": {
+        "github_url": "https://github.com/mongodb-developer",
+        "jobs_url": "https://www.mongodb.com/careers",
+        "name": "MongoDB Developer Relations",
+        "website_url": "https://mongodb.com"
+    },
+    "https://api.github.com/users/rapitag": {
+        "github_url": "https://github.com/rapitag",
+        "jobs_url": "https://rapitag.com/career/",
+        "name": "rapitag",
+        "website_url": "https://rapitag.com"
+    },
+    "https://api.github.com/users/vinted": {
+        "github_url": "https://github.com/vinted",
+        "jobs_url": "https://www.vinted.com/jobs",
+        "name": "vinted",
+        "website_url": "https://vinted.com"
+    },
+    "https://api.github.com/users/Screenly": {
+        "github_url": "https://github.com/Screenly",
+        "jobs_url": "https://apply.workable.com/screenly/",
+        "name": "Screenly",
+        "website_url": "https://www.screenly.io"
+    },
+    "https://api.github.com/users/Chia-Network": {
+        "github_url": "https://github.com/Chia-Network",
+        "jobs_url": "https://www.chia.net/careers/",
+        "name": "Chia Network",
+        "website_url": "https://chia.net"
+    },
+    "https://api.github.com/users/celer-network": {
+        "github_url": "https://github.com/celer-network",
+        "jobs_url": "https://celer.network/career",
+        "name": "Celer Network",
+        "website_url": "https://www.celer.network"
+    },
+    "https://api.github.com/users/zksync-sdk": {
+        "github_url": "https://github.com/zksync-sdk",
+        "jobs_url": "https://matterlabs.notion.site/Shape-the-future-of-Ethereum-at-Matter-Labs-dfb3b5a037044bb3a8006af2eb0575e0",
+        "name": "zkSync SDK",
+        "website_url": "https://zksync.io/"
+    },
+    "https://api.github.com/users/Fantom-foundation": {
+        "github_url": "https://github.com/Fantom-foundation",
+        "jobs_url": "https://fantom.foundation/careers/",
+        "name": "Fantom",
+        "website_url": "https://fantom.foundation"
+    },
+    "https://api.github.com/users/tozny": {
+        "github_url": "https://github.com/tozny",
+        "jobs_url": "https://tozny.com/careers/",
+        "name": "TOZNY",
+        "website_url": "https://tozny.com"
+    },
+    "https://api.github.com/users/codesandbox": {
+        "github_url": "https://github.com/codesandbox",
+        "jobs_url": "https://codesandbox.io/careers",
+        "name": "CodeSandbox",
+        "website_url": "https://codesandbox.io"
+    },
+    "https://api.github.com/users/ZcashFoundation": {
+        "github_url": "https://github.com/ZcashFoundation",
+        "jobs_url": "https://zfnd.org/careers/",
+        "name": "Zcash Foundation",
+        "website_url": "https://www.zfnd.org"
+    },
+    "https://api.github.com/users/novalabsxyz": {
+        "github_url": "https://github.com/novalabsxyz",
+        "jobs_url": "https://boards.greenhouse.io/novalabs",
+        "name": "Nova Labs, Inc.",
+        "website_url": "https://nova.xyz"
+    },
+    "https://api.github.com/users/distil": {
+        "github_url": "https://github.com/distil",
+        "jobs_url": "https://www.imperva.com/company/careers/",
+        "name": "Distil Inc",
+        "website_url": "www.distilnetworks.com"
+    },
+    "https://api.github.com/users/otter-sec": {
+        "github_url": "https://github.com/otter-sec",
+        "jobs_url": "https://osec.io/careers",
+        "name": "OtterSec",
+        "website_url": "https://osec.io/"
+    },
+    "https://api.github.com/users/paralink-network": {
+        "github_url": "https://github.com/paralink-network",
+        "jobs_url": "https://paralink.network/careers/",
+        "name": "Paralink Network",
+        "website_url": "https://paralink.network"
+    },
+    "https://api.github.com/users/Unleash": {
+        "github_url": "https://github.com/Unleash",
+        "jobs_url": "https://www.getunleash.io/careers",
+        "name": "Unleash",
+        "website_url": "https://www.getunleash.io"
+    },
+    "https://api.github.com/users/PACTCare": {
+        "github_url": "https://github.com/PACTCare",
+        "jobs_url": "https://pact.care/careers",
+        "name": "PACT Care BV",
+        "website_url": "https://pact.care/"
+    },
+    "https://api.github.com/users/zotero": {
+        "github_url": "https://github.com/zotero",
+        "jobs_url": "https://www.zotero.org/jobs",
+        "name": "Zotero",
+        "website_url": "https://www.zotero.org"
+    },
+    "https://api.github.com/users/re-gmbh": {
+        "github_url": "https://github.com/re-gmbh",
+        "jobs_url": "https://www.re-digital.io/jobs",
+        "name": "RE:GmbH",
+        "website_url": "http://re-digital.io"
+    },
+    "https://api.github.com/users/railwayapp": {
+        "github_url": "https://github.com/railwayapp",
+        "jobs_url": "https://railway.app/careers",
+        "name": "Railway",
+        "website_url": "https://www.railway.app/"
+    },
+    "https://api.github.com/users/dvrpc": {
+        "github_url": "https://github.com/dvrpc",
+        "jobs_url": "https://www.dvrpc.org/humanresources/",
+        "name": "Delaware Valley Regional Planning Commission",
+        "website_url": "https://www.dvrpc.org/"
+    },
+    "https://api.github.com/users/Roblox": {
+        "github_url": "https://github.com/Roblox",
+        "jobs_url": "https://careers.roblox.com/",
+        "name": "Roblox",
+        "website_url": "https://corp.roblox.com/"
+    },
+    "https://api.github.com/users/axiom-crypto": {
+        "github_url": "https://github.com/axiom-crypto",
+        "jobs_url": "https://jobs.ashbyhq.com/axiom",
+        "name": "Axiom",
+        "website_url": "https://www.axiom.xyz"
+    },
+    "https://api.github.com/users/meetcleo": {
+        "github_url": "https://github.com/meetcleo",
+        "jobs_url": "https://web.meetcleo.com/careers",
+        "name": "Cleo AI",
+        "website_url": "https://www.meetcleo.com"
+    },
+    "https://api.github.com/users/ji-devs": {
+        "github_url": "https://github.com/ji-devs",
+        "jobs_url": "https://www.jewishinteractive.org/positions-available-at-ji/",
+        "name": "Ji",
+        "website_url": "https://www.jewishinteractive.org"
+    },
+    "https://api.github.com/users/thoughtbot": {
+        "github_url": "https://github.com/thoughtbot",
+        "jobs_url": "https://thoughtbot.com/jobs",
+        "name": "thoughtbot, inc.",
+        "website_url": "https://thoughtbot.com"
+    },
+    "https://api.github.com/users/evernym": {
+        "github_url": "https://github.com/evernym",
+        "jobs_url": "https://www.evernym.com/careers/",
+        "name": "Evernym",
+        "website_url": "https://www.evernym.com/"
+    },
+    "https://api.github.com/users/dfds": {
+        "github_url": "https://github.com/dfds",
+        "jobs_url": "https://www.dfds.com/en/about/careers",
+        "name": "DFDS",
+        "website_url": "https://dfds.com/en/tech"
+    },
+    "https://api.github.com/users/tabnine": {
+        "github_url": "https://github.com/tabnine",
+        "jobs_url": "https://www.tabnine.com/careers",
+        "name": "Tabnine",
+        "website_url": "https://www.tabnine.com"
+    },
+    "https://api.github.com/users/CoinFabrik": {
+        "github_url": "https://github.com/CoinFabrik",
+        "jobs_url": "https://www.coinfabrik.com/careers/",
+        "name": "CoinFabrik",
+        "website_url": "http://www.coinfabrik.com"
+    },
+    "https://api.github.com/users/scality": {
+        "github_url": "https://github.com/scality",
+        "jobs_url": "https://www.scality.com/careers/",
+        "name": "Scality",
+        "website_url": "https://www.scality.com"
+    },
+    "https://api.github.com/users/little-bear-labs": {
+        "github_url": "https://github.com/little-bear-labs",
+        "jobs_url": "https://littlebearlabs.io/careers",
+        "name": "Little Bear Labs",
+        "website_url": "littlebearlabs.io"
+    },
+    "https://api.github.com/users/elastic": {
+        "github_url": "https://github.com/elastic",
+        "jobs_url": "https://www.elastic.co/careers",
+        "name": "elastic",
+        "website_url": "https://www.elastic.co/"
+    },
+    "https://api.github.com/users/mlabs-haskell": {
+        "github_url": "https://github.com/mlabs-haskell",
+        "jobs_url": "https://apply.workable.com/mlabs/",
+        "name": "MLabs",
+        "website_url": "https://mlabs.city"
+    },
+    "https://api.github.com/users/cvent": {
+        "github_url": "https://github.com/cvent",
+        "jobs_url": "https://careers.cvent.com/",
+        "name": "Cvent",
+        "website_url": "http://cvent.com"
+    },
+    "https://api.github.com/users/ionosnetworks": {
+        "github_url": "https://github.com/ionosnetworks",
+        "jobs_url": "https://www.ionosnetworks.com/ionos-careers",
+        "name": "Ionos Networks",
+        "website_url": "https://ionosnetworks.com"
+    },
+    "https://api.github.com/users/mbari-org": {
+        "github_url": "https://github.com/mbari-org",
+        "jobs_url": "https://www.mbari.org/about/careers/",
+        "name": "Monterey Bay Aquarium Research Institute",
+        "website_url": "https://www.mbari.org/"
+    },
+    "https://api.github.com/users/edgebitio": {
+        "github_url": "https://github.com/edgebitio",
+        "jobs_url": "https://edgebit.io/",
+        "name": "EdgeBit",
+        "website_url": "https://edgebit.io"
+    },
+    "https://api.github.com/users/NZXTCorp": {
+        "github_url": "https://github.com/NZXTCorp",
+        "jobs_url": "https://nzxt.com/careers",
+        "name": "NZXT",
+        "website_url": "https://nzxt.com"
+    },
+    "https://api.github.com/users/EnterpriseDB": {
+        "github_url": "https://github.com/EnterpriseDB",
+        "jobs_url": "https://www.enterprisedb.com/careers",
+        "name": "EDB",
+        "website_url": "http://www.enterprisedb.com/"
+    },
+    "https://api.github.com/users/regen-network": {
+        "github_url": "https://github.com/regen-network",
+        "jobs_url": "https://regennetwork.notion.site/Careers-at-Regen-Network-fe7d9645a39843cfb7eaceb7171d95af",
+        "name": "Regen Network",
+        "website_url": "https://www.regen.network"
+    },
+    "https://api.github.com/users/Edgio": {
+        "github_url": "https://github.com/Edgio",
+        "jobs_url": "https://edg.io/company/careers/",
+        "name": "Edgio",
+        "website_url": "https://edg.io"
+    },
+    "https://api.github.com/users/eqlabs": {
+        "github_url": "https://github.com/eqlabs",
+        "jobs_url": "https://equilibrium.co/careers",
+        "name": "Equilibrium",
+        "website_url": "https://equilibrium.co"
+    },
+    "https://api.github.com/users/InQuicker": {
+        "github_url": "https://github.com/InQuicker",
+        "jobs_url": "https://carenethealthcare.com/careers/",
+        "name": "InQuicker",
+        "website_url": "https://inquicker.com"
+    },
+    "https://api.github.com/users/prisma": {
+        "github_url": "https://github.com/prisma",
+        "jobs_url": "https://www.prisma.io/careers",
+        "name": "prisma",
+        "website_url": "https://www.prisma.io"
+    },
+    "https://api.github.com/users/replit": {
+        "github_url": "https://github.com/replit",
+        "jobs_url": "https://replit.com/site/careers",
+        "name": "Replit",
+        "website_url": "https://replit.com"
+    },
+    "https://api.github.com/users/digital-asset": {
+        "github_url": "https://github.com/digital-asset",
+        "jobs_url": "https://www.digitalasset.com/careers",
+        "name": "Digital Asset",
+        "website_url": "https://www.digitalasset.com"
+    },
+    "https://api.github.com/users/vector-im": {
+        "github_url": "https://github.com/vector-im",
+        "jobs_url": "https://element.io/careers",
+        "name": "Element",
+        "website_url": "https://www.element.io"
+    },
+    "https://api.github.com/users/lar-rs": {
+        "github_url": "https://github.com/lar-rs",
+        "jobs_url": "https://www.process-insights.com/about-us/careers/",
+        "name": "LAR Process Analysers AG",
+        "website_url": "https://www.lar.com"
+    },
+    "https://api.github.com/users/elusiv-privacy": {
+        "github_url": "https://github.com/elusiv-privacy",
+        "jobs_url": "https://elusiv.io/jobs",
+        "name": "Elusiv",
+        "website_url": "http://elusiv.io/"
+    },
+    "https://api.github.com/users/EOSLaoMao": {
+        "github_url": "https://github.com/EOSLaoMao",
+        "jobs_url": "https://github.com/EOSLaoMao/Job-Description/blob/master/README.md",
+        "name": "LaoMao.jp",
+        "website_url": "https://eoslaomao.com"
+    },
+    "https://api.github.com/users/9elements": {
+        "github_url": "https://github.com/9elements",
+        "jobs_url": "https://9elements.com/career/",
+        "name": "9elements",
+        "website_url": "https://9elements.com"
+    },
+    "https://api.github.com/users/EventStore": {
+        "github_url": "https://github.com/EventStore",
+        "jobs_url": "https://www.eventstore.com/careers",
+        "name": "Event Store",
+        "website_url": "https://eventstore.com"
+    },
+    "https://api.github.com/users/emblica": {
+        "github_url": "https://github.com/emblica",
+        "jobs_url": "https://emblica.com/careers",
+        "name": "Emblica Ltd",
+        "website_url": "https://emblica.fi"
+    },
+    "https://api.github.com/users/PrecisionNutrition": {
+        "github_url": "https://github.com/PrecisionNutrition",
+        "jobs_url": "https://www.precisionnutrition.com/careers",
+        "name": "Precision Nutrition",
+        "website_url": "http://precisionnutrition.com"
+    },
+    "https://api.github.com/users/CACI-International": {
+        "github_url": "https://github.com/CACI-International",
+        "jobs_url": "https://careers.caci.com/global/en",
+        "name": "CACI International Inc.",
+        "website_url": "http://caci.com/"
+    },
+    "https://api.github.com/users/VolumeGraphics": {
+        "github_url": "https://github.com/VolumeGraphics",
+        "jobs_url": "https://www.volumegraphics.com/en/company/career-at-volume-graphics.html",
+        "name": "Volume Graphics GmbH",
+        "website_url": "https://www.volumegraphics.com/"
+    },
+    "https://api.github.com/users/utilitywarehouse": {
+        "github_url": "https://github.com/utilitywarehouse",
+        "jobs_url": "https://uw.co.uk/about-us/careers",
+        "name": "UW - Utility Warehouse",
+        "website_url": "https://uw.co.uk"
+    },
+    "https://api.github.com/users/expo": {
+        "github_url": "https://github.com/expo",
+        "jobs_url": "https://expo.dev/careers",
+        "name": "Expo",
+        "website_url": "https://expo.dev"
+    },
+    "https://api.github.com/users/blockchain": {
+        "github_url": "https://github.com/blockchain",
+        "jobs_url": "https://www.blockchain.com/careers",
+        "name": "Blockchain.com / Blockchain.info",
+        "website_url": "https://www.blockchain.com"
+    },
+    "https://api.github.com/users/espresso-cash": {
+        "github_url": "https://github.com/espresso-cash",
+        "jobs_url": "https://www.espressocash.com/docs/about-us/jobs/",
+        "name": "Espresso Cash",
+        "website_url": "https://espressocash.com"
+    },
+    "https://api.github.com/users/PolyAI-LDN": {
+        "github_url": "https://github.com/PolyAI-LDN",
+        "jobs_url": "https://poly.ai/careers/",
+        "name": "PolyAI",
+        "website_url": "www.poly-ai.com"
+    },
+    "https://api.github.com/users/RollaProject": {
+        "github_url": "https://github.com/RollaProject",
+        "jobs_url": "https://jobs.lever.co/QuantLabs",
+        "name": "Rolla",
+        "website_url": "https://rolla.finance"
+    },
+    "https://api.github.com/users/broadinstitute": {
+        "github_url": "https://github.com/broadinstitute",
+        "jobs_url": "https://www.broadinstitute.org/careers",
+        "name": "Broad Institute",
+        "website_url": "http://www.broadinstitute.org/"
+    },
+    "https://api.github.com/users/dewi-alliance": {
+        "github_url": "https://github.com/dewi-alliance",
+        "jobs_url": "https://apply.workable.com/helium-foundation/#jobs",
+        "name": "Helium Foundation",
+        "website_url": "https://helium.foundation"
+    },
+    "https://api.github.com/users/AngelDao": {
+        "github_url": "https://github.com/AngelDao",
+        "jobs_url": "https://work.angeldao.org/0035b703090641faa2a9425d032d2311?v=ef6a3257f4a74059a45183ff575ffeda",
+        "name": "AngelDAO",
+        "website_url": "https://angeldao.org"
+    },
+    "https://api.github.com/users/netlify": {
+        "github_url": "https://github.com/netlify",
+        "jobs_url": "https://www.netlify.com/careers/",
+        "name": "Netlify",
+        "website_url": "https://www.netlify.com"
+    },
+    "https://api.github.com/users/marigold-dev": {
+        "github_url": "https://github.com/marigold-dev",
+        "jobs_url": "https://www.marigold.dev/career",
+        "name": "Marigold",
+        "website_url": "https://marigold.dev"
+    },
+    "https://api.github.com/users/codecov": {
+        "github_url": "https://github.com/codecov",
+        "jobs_url": "https://sentry.io/careers/",
+        "name": "Codecov",
+        "website_url": "https://codecov.io/"
+    },
+    "https://api.github.com/users/UbiqueInnovation": {
+        "github_url": "https://github.com/UbiqueInnovation",
+        "jobs_url": "https://www.ubique.ch/jobs/",
+        "name": "Ubique",
+        "website_url": "https://www.ubique.ch"
+    },
+    "https://api.github.com/users/particle-iot": {
+        "github_url": "https://github.com/particle-iot",
+        "jobs_url": "https://www.particle.io/careers/",
+        "name": "Particle",
+        "website_url": "https://www.particle.io"
+    },
+    "https://api.github.com/users/VelocityMSC": {
+        "github_url": "https://github.com/VelocityMSC",
+        "jobs_url": "https://velocitymsc.com/careers/",
+        "name": "Velocity, A Managed Services Company, Inc.",
+        "website_url": "https://velocitymsc.com"
+    },
+    "https://api.github.com/users/testdouble": {
+        "github_url": "https://github.com/testdouble",
+        "jobs_url": "https://testdouble.com/careers",
+        "name": "Test Double",
+        "website_url": "http://testdouble.com"
+    },
+    "https://api.github.com/users/Infinidat": {
+        "github_url": "https://github.com/Infinidat",
+        "jobs_url": "https://www.infinidat.com/en/careers",
+        "name": "Infinidat Ltd.",
+        "website_url": "http://www.infinidat.com"
+    },
+    "https://api.github.com/users/l2beat": {
+        "github_url": "https://github.com/l2beat",
+        "jobs_url": "https://l2beat.notion.site/We-are-hiring-Work-at-L2BEAT-e4e637265ae94c5db7dfa2de336b940f",
+        "name": "L2BEAT",
+        "website_url": "https://l2beat.com"
+    }
+}
